@@ -1,3 +1,6 @@
+运行截图
+![](https://github.com/HiganFish/UE4NetworkComponentSample/blob/master/IMAGES/run.png)
+
 修改项目中的`LoginManager.cpp`的Ip和Port 编译运行后点击登录
 
 服务器即收到序列化后的数据
